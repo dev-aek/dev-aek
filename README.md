@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/dev-aek/dev-aek/blob/main/Game%20developer.png)
+![MasterHead](https://github.com/dev-aek/dev-aek/blob/main/Game%20developer.png)
 <h1 align="center">Hi 👋, I'm Abdullah Enes Kocabuğa</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
