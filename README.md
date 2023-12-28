@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/nMpV45p/HakkINDA.png)
+[![MasterHead](https://app.gemoo.com/share/image-annotation/598994397894680576?codeId=DWajZNLRb7bjm&origin=imageurlgenerator&card=598994395650727936)
 <h1 align="center">Hi 👋, I'm Abdullah Enes Kocabuğa</h1>
 <h3 align="center">A passionate game developer from Turkey</h3>
 
