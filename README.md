@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abdullaheneskocabuga@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://bristle-step-6e6.notion.site/Resume-34c66e7db9e74639b5055d939178843f](https://abdullaheneskocabuga.notion.site/Resume-34c66e7db9e74639b5055d939178843f?pvs=74))
+- 📄 Know about my experiences [Resume](https://abdullaheneskocabuga.notion.site/Resume-34c66e7db9e74639b5055d939178843f?pvs=74)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
