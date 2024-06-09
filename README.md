@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Unreal Engine**
 
-- 👨‍💻 All of my projects are available at [https://bristle-step-6e6.notion.site/3f23d4245d6340bb99222f579e72855e?v=d9c77b8471eb4c10bd0d5e711e29d811&pvs=4](https://bristle-step-6e6.notion.site/3f23d4245d6340bb99222f579e72855e?v=d9c77b8471eb4c10bd0d5e711e29d811&pvs=4)
+- 👨‍💻 All of my projects are available at [https://bristle-step-6e6.notion.site/3f23d4245d6340bb99222f579e72855e?v=d9c77b8471eb4c10bd0d5e711e29d811&pvs=4](https://abdullaheneskocabuga.notion.site/3f23d4245d6340bb99222f579e72855e?v=d9c77b8471eb4c10bd0d5e711e29d811&pvs=4)
 
 - 📝 I regularly write articles on [https://medium.com/@abdullaheneskocabuga](https://medium.com/@abdullaheneskocabuga)
 
