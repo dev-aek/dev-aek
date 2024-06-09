@@ -8,13 +8,13 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abdullaheneskocabuga.notion.site/3f23d4245d6340bb99222f579e72855e?v=d9c77b8471eb4c10bd0d5e711e29d811&pvs=4)
 
-- 📝 I regularly write articles on [https://medium.com/@abdullaheneskocabuga](https://medium.com/@abdullaheneskocabuga)
+- 📝 I regularly write articles on [Medium](https://medium.com/@abdullaheneskocabuga)
 
 - 💬 Ask me about **Unity**
 
 - 📫 How to reach me **abdullaheneskocabuga@gmail.com**
 
-- 📄 Know about my experiences [https://www.notion.so/Resume-34c66e7db9e74639b5055d939178843f](https://bristle-step-6e6.notion.site/Resume-34c66e7db9e74639b5055d939178843f)
+- 📄 Know about my experiences [Resume]([https://bristle-step-6e6.notion.site/Resume-34c66e7db9e74639b5055d939178843f](https://abdullaheneskocabuga.notion.site/Resume-34c66e7db9e74639b5055d939178843f?pvs=74))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
