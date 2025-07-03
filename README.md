@@ -31,5 +31,5 @@ I work with various frameworks and technologies. Below are the tools and platfor
 
 #### 🌐 Contact
 
-[Website](https://abdullahaneskocabuga.com.tr) • [LinkedIn](https://www.linkedin.com/in/abdullah-enes-kocabuga)
+[Website](https://abdullaheneskocabuga.com.tr/) • [LinkedIn](https://www.linkedin.com/in/abdullah-enes-kocabuga)
 
