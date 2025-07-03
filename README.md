@@ -16,7 +16,7 @@ Unity Fullstack Developer specialized in game development and interactive system
 #### Tech Stack
 
 I work with various frameworks and technologies. Below are the tools and platforms I use most frequently in my projects:
-- **Languages & Frameworks**: C#, .NET, FastAPI, TypeScript, Java (Spring if needed)
+- **Languages & Frameworks**: C#, .NET, FastAPI, TypeScript, Java-Spring (if needed)
 - **Platforms**: Unity, Next.js, Vite
 - **Databases & Messaging**: PostgreSQL, InfluxDB, MQTT, HTTP, TCP
 - **Monitoring & Visualization**: Grafana
