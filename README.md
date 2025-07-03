@@ -23,13 +23,15 @@ I work with various frameworks and technologies. Below are the tools and platfor
 
 ---
 
+#### 🌐 Contact
+
+[Website](https://abdullaheneskocabuga.com.tr/) • [LinkedIn](https://www.linkedin.com/in/abdullah-enes-kocabuga)
+---
+
 #### 📊 GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-aek&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&hide=prs,issues&theme=default)](https://github.com/dev-aek)
 
 ---
 
-#### 🌐 Contact
-
-[Website](https://abdullaheneskocabuga.com.tr/) • [LinkedIn](https://www.linkedin.com/in/abdullah-enes-kocabuga)
 
